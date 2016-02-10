@@ -13,8 +13,6 @@ class Welcome extends Application {
 
     function __construct() {
         parent::__construct();
-        
-        
     }
 
     //-------------------------------------------------------------
@@ -26,8 +24,7 @@ class Welcome extends Application {
         $this->data['pagebody'] = 'welcome';
 
         // Get all the completed orders
-        //FIXME
-        $completed = $this->Orders->some('status','c');
+        $completed = $this->Orders->some('status', 'c');
 
         // Build a multi-dimensional array for reporting
         $orders = array();
