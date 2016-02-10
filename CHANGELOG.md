@@ -19,3 +19,6 @@
 ## 1.0.5
 - Fixed the add() method in Order controller
 - Fixed the add_items() method in Orders controller
+
+## 1.0.6
+- Changed the Order controller and model
