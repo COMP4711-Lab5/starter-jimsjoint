@@ -15,3 +15,7 @@
 - Changed the Order Model
 - Changed the config.php added the '/' to the base url
 - Changed the Order controller
+
+## 1.0.5
+- Fixed the add() method in Order controller
+- Fixed the add_items() method in Orders controller
