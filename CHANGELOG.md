@@ -3,3 +3,15 @@
 ## 1.0.1
 **Added files:**
 - CHANGELOG.md for keeping track of all commit updates
+
+## 1.0.2
+- Fixed autoload.php
+- Fixed Welcome controller
+
+## 1.0.3
+- Fixed the Order Controller
+
+## 1.0.4
+- Changed the Order Model
+- Changed the config.php added the '/' to the base url
+- Changed the Order controller
