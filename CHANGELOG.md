@@ -22,3 +22,6 @@
 
 ## 1.0.6
 - Changed the Order controller and model
+
+## 1.0.6
+- Added commit() and fixed cancel in the Order controller
